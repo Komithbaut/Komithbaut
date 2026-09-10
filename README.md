@@ -10,14 +10,20 @@ Je suis étudiant à l'**Université de Lomé – Institut des Métiers de la Me
 
 Je m'intéresse particulièrement à la logistique, au transport maritime, au commerce international, à la finance et aux nouvelles technologies.
 ## 🛠️ Compétences
+<section>
+    <h2>🛠️ Compétences</h2>
 
-- 📊 Excel
-- 📝 Word
-- 📊 PowerPoint
-- 🚢 Transit, consignation et armement
-- 📦 Logistique et gestion des marchandises
-- 🌍 Commerce international
-- 💻 Outils numériques
+    <ul>
+        <li>💻 <strong>Microsoft Excel</strong> — tableaux, calculs et gestion de données</li>
+        <li>📄 <strong>Microsoft Word</strong> — rédaction et mise en page de documents</li>
+        <li>📊 <strong>Microsoft PowerPoint</strong> — présentations professionnelles</li>
+        <li>⚓ <strong>Logistique et transport maritime</strong></li>
+        <li>🚢 <strong>Transit et consignation maritime</strong></li>
+        <li>📦 <strong>Gestion des marchandises et opérations logistiques</strong></li>
+        <li>🌍 <strong>Commerce international</strong></li>
+        <li>🤝 <strong>Travail en équipe</strong></li>
+    </ul>
+</section>
 
 ## 🌍 Langues
 
